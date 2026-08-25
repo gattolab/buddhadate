@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/OWNER/buddha"
+	"github.com/gattolab/buddhadate"
 )
 
 func ExampleNow() {

@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/OWNER/buddha"
+	"github.com/gattolab/buddhadate"
 )
 
 // This file contains boundary-condition and cross-cutting tests that

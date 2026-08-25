@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://cdn.example.com/buddha-logo.png"
+    src="https://cdn.tubb.me/static/buddhadate.jpeg"
     alt="Buddha"
-    width="180"
+    width="320"
   />
 </p>
 
@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://pkg.go.dev/github.com/&lt;owner&gt;/buddhadate"><img src="https://pkg.go.dev/badge/github.com/&lt;owner&gt;/buddhadate.svg" alt="Go Reference"></a>
-  <a href="https://goreportcard.com/report/github.com/&lt;owner&gt;/buddhadate"><img src="https://goreportcard.com/badge/github.com/&lt;owner&gt;/buddhadate" alt="Go Report Card"></a>
-  <a href="https://github.com/&lt;owner&gt;/buddhadate/blob/main/LICENSE"><img src="https://img.shields.io/github/license/&lt;owner&gt;/buddhadate" alt="License"></a>
+  <a href="https://pkg.go.dev/github.com/gattolab/buddhadate"><img src="https://pkg.go.dev/badge/github.com/gattolab/buddhadate.svg" alt="Go Reference"></a>
+  <a href="https://goreportcard.com/report/github.com/gattolab/buddhadate"><img src="https://goreportcard.com/badge/github.com/gattolab/buddhadate" alt="Go Report Card"></a>
+  <a href="https://github.com/gattolab/buddhadate/blob/main/LICENSE"><img src="https://img.shields.io/github/license/gattolab/buddhadate" alt="License"></a>
 </p>
 
 ```go
